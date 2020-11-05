@@ -1,0 +1,13 @@
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+F:\Repositories\Unity3D\Multiplayer 3D\MultiplayerTutorial\src\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
