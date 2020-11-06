@@ -1,18 +1,34 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public static UIManager Instance { get; private set; }
+
+    [SerializeField]
+    private GameObject _startMenu;
+
+    [SerializeField]
+    private InputField _userNameField;
+
+    private void Awake()
     {
-        
+        if (Instance is null)
+        {
+            Instance = this;
+        }
+        else if (Instance != null)
+        {
+            Debug.Log("Instance already exists, destroying object!");
+            Destroy(this);
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    public void ConnectToServer()
     {
-        
+        _startMenu.SetActive(false);
+        _userNameField.interactable = false;
+
+        Client.Instance.ConnectToServer();
     }
 }
